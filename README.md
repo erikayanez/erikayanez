@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on every project 
 - 👨‍💻 Love coding!!!
 - :earth_americas: International mindset
-- 📫 How to reach me:  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) erikajoam@gmail.com
 ---
 🔧 Technologies & Tools
 
